@@ -478,6 +478,10 @@
     </sheet>
     <rules>
     	<grant type="Spell" name="ID_PHB_SPELL_MINOR_ILLUSION" />
+    	<grant type="Spell" name="ID_PHB_SPELL_DARKNESS" />
+    	<grant type="Spell" name="ID_PHB_SPELL_DARKVISION" />
+    	<grant type="Spell" name="ID_PHB_SPELL_PASS_WITHOUT_TRACE" />
+    	<grant type="Spell" name="ID_PHB_SPELL_SILENCE" />
     </rules>
   </element>
   <element name="Shadow Step" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_SHADOW_SHADOW_STEP">
